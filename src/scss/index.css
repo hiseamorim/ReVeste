@@ -15,31 +15,34 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
  :root {
-    --bs-blue: #5F37EF;
-    --bs-indigo: #727cf5;
-    --bs-purple: #9C69E2;
-    --bs-pink: #F063B8;
-    --bs-red: #EF4358;
-    --bs-orange: #F56538;
-    --bs-yellow: #FFBA49;
-    --bs-green: #68C9BA;
-    --bs-teal: #299EF3;
-    --bs-cyan: #38B0F5;
-    --bs-white: #fff;
-    --bs-gray: #94A2B3;
-    --bs-gray-dark: #4B5D68;
-    --bs-primary: #5F37EF;
-    --bs-secondary: #299EF3;
-    --bs-success: #68C9BA;
-    --bs-info: #9C69E2;
-    --bs-warning: #FFBA49;
-    --bs-danger: #F063B8;
-    --bs-light: #f9fafd;
-    --bs-dark: #0b1727;
-    --bs-font-sans-serif: "Lato", "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    --bs-font-monospace: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-    --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
-  }
+  --bs-purple: #8547A8;
+  --bs-blue: #262C5D;
+  --bs-yellow: #FBF6B5;
+  --bs-green: #AEE8FC;
+
+  --bs-red: #EF4358;
+  --bs-orange: #F56538;
+  --bs-yellow: #FFBA49;
+  --bs-green: #68C9BA;
+  --bs-teal: #299EF3;
+  --bs-cyan: #38B0F5;
+  --bs-white: #fff;
+  --bs-gray: #94A2B3;
+  --bs-gray-dark: #4B5D68;
+  --bs-primary: #5F37EF;
+  --bs-secondary: #299EF3;
+  --bs-success: #68C9BA;
+  --bs-info: #9C69E2;
+  --bs-warning: #FFBA49;
+  --bs-danger: #F063B8;
+  --bs-light: #f9fafd;
+  --bs-dark: #0b1727;
+
+  --bs-font-sans-serif: "Lato", "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --bs-font-monospace: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+
+  --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+}
   
   *,
   *::before,
