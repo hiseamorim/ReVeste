@@ -13,29 +13,13 @@
 
         body {
             font-family: 'Arial', sans-serif;
-            background-color: #f7f9fc;
+            background-color: #c5a3e0; /* Roxo lavanda */
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
             position: relative;
             overflow: hidden;
-        }
-
-        /* Estilo para o fundo "Reveste" */
-        .background {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            background-color: #c5a3e0; /* Roxo lavanda */
-            opacity: 0.2; /* Transparência */
-            z-index: 1;
-            text-align: center;
-            font-size: 10rem;
-            color: #5e4b8c; /* Cor roxa mais escura */
-            line-height: 100vh; /* Centraliza verticalmente */
-            font-weight: bold;
-            pointer-events: none; /* Para que não interfira com outros elementos */
         }
 
         .container {
@@ -143,10 +127,8 @@
 </head>
 <body>
 
-<div class="background">Reveste</div>
-
 <div class="container" id="login-container">
-    <h2>Login</h2>
+    <h2>Reveste Login</h2>
     <form id="login-form">
         <label for="login-email">Email</label>
         <input type="email" id="login-email" name="login-email" required>
@@ -222,3 +204,4 @@
 </script>
 </body>
 </html>
+
