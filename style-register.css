@@ -1,0 +1,182 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #C9C9C9;
+    overflow-x: hidden;
+}
+
+/* Topbar */
+
+.topbar {
+    background-color: #252D5E;
+    position: relative;
+    align-items: center;
+}
+
+.user {
+    position: absolute;
+    margin-top: -55px;
+    margin-left: 94%;
+    background-color: lightgray;
+    width: 50px;
+    border-radius: 50%;
+}
+
+
+
+/* Botão de Dropdown */
+.dropbtn {
+    margin-top: 24px;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.dropbtn div {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+
+.dropdown {
+    position: absolute;
+    margin-left: 87%;
+    margin-top: -90px;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.show {
+    display: block;
+}
+
+.sitename a{
+    font-size: 50px;
+    text-align: left;
+    margin-left: 30px;
+    font-family: "Georgia", Times, serif;
+    font-style: italic;
+}
+
+.sitename a:visited{
+    color: black;
+}
+
+.register-header {
+    background-color: #808080;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    font-size: 70px;
+    font-weight: 600;
+}
+
+.register-message {
+    padding-top: 75px;
+    padding-bottom: 75px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.register-info {
+    margin-left: 40px;    
+}
+
+.register-info input {
+    margin-top: 5px;
+    font-size: 25px;
+    border-color: #252D5E;
+}
+
+.register-info-2 {
+    position: absolute;
+    margin-left: 450px;    
+}
+
+.register-info-2 input {
+    width: 70%;
+    margin-top: 5px;
+    font-size: 25px;
+    border-color: #252D5E;
+}
+
+.register-address-header {
+    padding: 30px 0;
+    margin-left: 35px;    
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.register-cep {
+    margin-left: 40px;    
+}
+
+.register-cep input {
+    width: 15%;
+    margin-top: 5px;
+    font-size: 25px;
+    border-color: #252D5E;
+}
+
+.register-address {
+    position: absolute;
+    margin-left: 280px;    
+}
+
+.register-address input {
+    width: 60%;
+    margin-top: 5px;
+    font-size: 25px;
+    border-color: #252D5E;
+}
+
+.register-address-number {
+    position: absolute;
+    margin-left: 540px;    
+}
+
+.register-address-number input {
+    width: 40%;
+    margin-top: 5px;
+    font-size: 25px;
+    border-color: #252D5E;
+}
+
+.register img {
+    position: absolute;
+    width: 30%;
+    margin-left: 61%;
+}
+
+.register button {
+    position: absolute;
+    margin-left: 67%;
+    margin-top: 430px;
+    background-color: #4449AD;
+    font-size: 20px;
+    padding: 30px 80px;
+    border-style: none;
+    margin-bottom: 160px;
+}

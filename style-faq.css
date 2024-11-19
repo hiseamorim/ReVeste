@@ -1,0 +1,16 @@
+.faq-info {
+    margin-left: 50px;
+}
+
+h1 {
+    color: #252D5E;
+    font-size: 50px;
+    margin-left: 30px;
+    font-family: "Georgia", Times, serif;
+    font-style: italic;
+}
+
+.faq-text {
+    font-size: 20px;
+    margin: 0 50px;
+}
