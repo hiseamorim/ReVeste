@@ -1,8 +1,8 @@
-# ReVeste - Plataforma de Reutilização e Moda Sustentável
+# ReVeste - Plataforma de Reutilização e Moda Sustentável 👗♻️
 
 **ReVeste** é uma plataforma que conecta pessoas com o objetivo de **reutilizar roupas** de forma sustentável, promovendo a **economia circular** e o **upcycling**. O projeto busca reduzir o impacto ambiental causado pela indústria da moda, incentivando a reutilização de roupas antigas e a criação de novos looks com peças recicladas ou de segunda mão.
 
-## Funcionalidades
+## Funcionalidades 🛠️
 
 - **Cadastro de Usuário**: Crie uma conta na plataforma para gerenciar seu roupas sustentável e interagir com outros usuários.
 - **Gestão de Roupas**: Cadastre suas roupas usadas ou de segunda mão, facilitando a organização e permitindo que você crie novos looks.
@@ -12,7 +12,7 @@
 - **Dicas de Upcycling**: Receba dicas sobre como transformar suas roupas antigas em novas peças, promovendo a criatividade e sustentabilidade.
 - **Impacto Ambiental**: A plataforma calcula e mostra o impacto ambiental que você está ajudando a reduzir ao reutilizar suas roupas (economia de água, carbono, etc).
 
-## Como Funciona
+## Como Funciona ❓
 
 1. **Criação de Conta**: Ao se cadastrar, o usuário cria um perfil com informações como nome, foto e preferências. A partir daí, ele pode gerenciar suas roupas e looks.
 2. **Cadastro de Roupas**: O usuário pode cadastrar peças do seu guarda-roupa, especificando tipo de roupa, estado de conservação, tamanho e inserir imagens.
@@ -21,7 +21,7 @@
 5. **Upcycling**: A plataforma oferece sugestões e ideias de como customizar ou modificar roupas antigas, incentivando a reutilização criativa.
 6. **Compartilhamento Social**: Os usuários podem compartilhar seus looks, customizações e experiências com a comunidade, promovendo a troca de ideias.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 🚀
 
 - **Frontend**:
   - **HTML5**: Estruturação da página.
@@ -37,13 +37,13 @@
 - **Armazenamento de Imagens**:
   - **Multer** (para upload de imagens) ou **Cloudinary** (para hospedagem de imagens externas).
 
-   ### Imagem :
+   ### Imagem : 📷
 ![imagem](img/logineregistrar.png) 
 ![imagem](img/registrar.png)
 ![imagem](img/login.png)
 
 
-## Fontes Consultadas
+## Fontes Consultadas 🔍
 Este projeto foi inspirado no repositório Cad Ecommerce, um projeto que também busca criar uma plataforma de e-commerce com funcionalidades como cadastro de usuário, upload de imagens e integração com banco de dados. Muitas das ideias de autenticação de usuários e upload de imagens foram baseadas neste projeto.
 ## Instalação
 
@@ -110,22 +110,3 @@ Contribuições são bem-vindas! Se você quiser contribuir com o projeto, siga 
 Este projeto está licenciado sob a **Licença MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
-### Possíveis Expansões do Projeto
-
-1. **Parcerias com Marcas Sustentáveis**: Adicionar uma seção para promover marcas de moda sustentável ou que utilizam materiais reciclados.
-2. **Gamificação**: Criar um sistema de pontos onde os usuários ganham pontos por reutilizar roupas, trocar peças ou fazer upcycling, incentivando o engajamento.
-3. **Calculadora de Impacto Ambiental**: Uma ferramenta que calcula o impacto positivo gerado ao reutilizar roupas em vez de comprar novas peças.
-4. **Marketplace**: Adicionar uma funcionalidade de compra e venda de roupas sustentáveis diretamente na plataforma.
-
-## Contato
-
-Se você tiver dúvidas, sugestões ou quiser colaborar, entre em contato:
-
-- **Email**: seuemail@dominio.com
-- **GitHub**: [seuusuario](https://github.com/seuusuario)
-- **LinkedIn**: [seulinkedin](https://linkedin.com/in/seulinkedin)
-
----
-
-Este README está estruturado para refletir as funcionalidades que você mencionou e fornecer um guia claro sobre como o projeto pode ser instalado e utilizado. Se você quiser ajustar ou adicionar mais detalhes, como links de imagens ou recursos específicos do seu projeto, posso ajudá-lo com isso também! 😊
