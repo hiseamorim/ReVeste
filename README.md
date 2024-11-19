@@ -42,7 +42,7 @@
 ![imagem](img/registrar.png)
 ![imagem](img/login.png)
 
-### Fontes Consultadas
+## Fontes Consultadas
 Este projeto foi inspirado no repositório Cad Ecommerce, um projeto que também busca criar uma plataforma de e-commerce com funcionalidades como cadastro de usuário, upload de imagens e integração com banco de dados. Muitas das ideias de autenticação de usuários e upload de imagens foram baseadas neste projeto.
 ## Instalação
 
